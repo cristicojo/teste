@@ -1,5 +1,5 @@
 // aabbbNnnncca --> a2b3n4c2a1
-public class Teste4 {
+public class Teste2 {
 
 	ppublic String convert(String input) {
 
@@ -13,6 +13,6 @@ public class Teste4 {
 
 	public static void main(String[] args) {
 
-		System.out.println(new Teste4().convert("aabbbNnnncca"));
+		System.out.println(new Teste2().convert("aabbbNnnncca"));
 	}
 }
