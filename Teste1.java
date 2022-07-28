@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 // print the smallest int positive number != 0 from an array that is not present in the array
-public class Teste2 {
+public class Teste1 {
 
 	public int find(Integer[] a) {
 
@@ -20,6 +20,6 @@ public class Teste2 {
 	public static void main(String[] args) {
 
 		Integer[] a = new Integer[]{3, 9, 0, 4, 1, 3};
-		System.out.println(new Teste2().find(a));
+		System.out.println(new Teste1().find(a));
 	}
 }
