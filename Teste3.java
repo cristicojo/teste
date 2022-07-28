@@ -3,6 +3,7 @@ import java.util.Map;
 
 // check if 2 strings are anagrams 
 // "abcd"  "dbac" -> true
+// Time Complexity : O(n)
 public class Teste3 {
 
 	public boolean anagrams(String s1, String s2){
